@@ -5,13 +5,13 @@
 
 
 ### Hello there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/arthyd/arthyd/blob/main/readme.en.md)
 [![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/arthyd/arthyd/blob/main/readme.md)
+I am passionated about GNU/Linux and IoT, that's why I write code and push it here.
 
-Je suis quelqu'un de passionné par GNU/Linux, l'IoT et leur sécurité, alors j'écris du code et je le dépose ici.
 
-
-### Langages
+### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/c++-blue?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c)](https://www.open-std.org/jtc1/sc22/wg14/)
@@ -20,7 +20,7 @@ Je suis quelqu'un de passionné par GNU/Linux, l'IoT et leur sécurité, alors j
 [![RUST](https://img.shields.io/badge/rust-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/fr)
 [![RUST](https://img.shields.io/badge/vhdl-red?style=for-the-badge&logo=xilinx)](https://www.vhdl.org/)
 
-### Technologies et frameworks
+### Technologies and frameworks
 [![Flask](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/en/2.3.x/)
 [![Angular](https://img.shields.io/badge/angular-blue?style=for-the-badge&logo=angular)](https://angular.io/)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
