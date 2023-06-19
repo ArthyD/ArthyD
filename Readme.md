@@ -1,6 +1,7 @@
 ### OS
-[![Linux](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=Linux)](https://github.com/arthyd)
-[![Fedora](https://img.shields.io/badge/fedora-white?style=for-the-badge&logo=Fedora)](https://github.com/arthyd)
+[![Linux](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=Linux)]()
+[![Fedora](https://img.shields.io/badge/fedora-white?style=for-the-badge&logo=Fedora)](https://fedoraproject.org/)
+[![Kali Linux](https://img.shields.io/badge/kali-white?style=for-the-badge&logo=KaliLinux)](https://www.kali.org/)
 
 
 <p align="center">
