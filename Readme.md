@@ -1,7 +1,8 @@
 ### OS
-[![Linux](https://img.shields.io/badge/linux-white?style=for-the-badge&logo=Linux)]()
-[![Fedora](https://img.shields.io/badge/fedora-white?style=for-the-badge&logo=Fedora)](https://fedoraproject.org/)
-[![Kali Linux](https://img.shields.io/badge/kali-white?style=for-the-badge&logo=KaliLinux)](https://www.kali.org/)
+[![Linux](https://img.shields.io/badge/linux-brown?style=for-the-badge&logo=Linux)]()
+[![Fedora](https://img.shields.io/badge/fedora-blue?style=for-the-badge&logo=Fedora)](https://fedoraproject.org/)
+[![Kali Linux](https://img.shields.io/badge/kali-grey?style=for-the-badge&logo=KaliLinux)](https://www.kali.org/)
+[![RedHat](https://img.shields.io/badge/redhat-red?style=for-the-badge&logo=RedHat)](https://www.redhat.com/fr)
 
 
 <p align="center">
