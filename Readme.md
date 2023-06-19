@@ -5,8 +5,6 @@
 
 
 ### Hello there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/arthyd/arthyd/blob/main/readme.en.md)
-[![fr](https://img.shields.io/badge/lang-fr-blue.svg)](https://github.com/arthyd/arthyd/blob/main/readme.md)
 
 Je suis quelqu'un de passionné par GNU/Linux, l'IoT et leur sécurité, alors j'écris du code et je le dépose ici.
 
