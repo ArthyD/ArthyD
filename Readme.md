@@ -23,7 +23,7 @@ Je suis quelqu'un de passionné par GNU/Linux, l'IoT et leur sécurité, alors j
 [![Angular](https://img.shields.io/badge/angular-blue?style=for-the-badge&logo=angular)](https://angular.io/)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Docker](https://img.shields.io/badge/podman-brown?style=for-the-badge&logo=podman)](https://podman.io/)
-[![Arduino](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=arduino)](https://www.arduino.cc/)
+[![Arduino](https://img.shields.io/badge/arduino-grey?style=for-the-badge&logo=arduino)](https://www.arduino.cc/)
 [![RaspberryPi](https://img.shields.io/badge/raspberry-red?style=for-the-badge&logo=raspberrypi)](https://www.raspberrypi.com/)
 
 
