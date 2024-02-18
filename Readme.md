@@ -6,9 +6,6 @@
 
 ### Hello there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-Je suis quelqu'un de passionné par GNU/Linux, l'IoT et leur sécurité, alors j'écris du code et je le dépose ici.
-
-
 ### Langages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/c++-blue?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
