@@ -29,6 +29,7 @@
 [![Fedora](https://img.shields.io/badge/fedora-blue?style=for-the-badge&logo=Fedora)](https://fedoraproject.org/)
 [![Kali Linux](https://img.shields.io/badge/kali-grey?style=for-the-badge&logo=KaliLinux)](https://www.kali.org/)
 [![RedHat](https://img.shields.io/badge/redhat-red?style=for-the-badge&logo=RedHat)](https://www.redhat.com/fr)
+[![Debian](https://img.shields.io/badge/debian-blue?style=for-the-badge&logo=Debian)](https://debian.org)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthyd&layout=compact)
